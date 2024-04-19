@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.2.1.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.166617143",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -43,10 +43,10 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "InProgress",
-        "testCaseId": "87f4f347-332d-449a-9951-74ac42b78800",
+        "editingStatus": "Publishable",
+        "testCaseId": "0eea442a-a6fd-4903-9563-64810110ee5e",
         "testCaseType": "TestCase",
-        "fileName": "TestCase.xaml"
+        "fileName": "BL_SortAscending.xaml"
       }
     ],
     "saveToCloud": false
